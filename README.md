@@ -49,4 +49,4 @@ Los datos de emisiones de CO₂ provienen de **Our World In Data** (OWID):
 - Enlace: https://ourworldindata.org/co2-emissions
 
 Los mapas utilizan shapefiles de **Natural Earth** (resolución 50m).
-# tarea2_streamlit
+
